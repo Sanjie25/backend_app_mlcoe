@@ -113,6 +113,17 @@ SQLALCHEMY_DATABASE_URI=mysql+pymysql://super_user:password@localhost/backend_ex
 
   Check the [api reference](https://github.com/Sanjie25/notezz/blob/main/API_REF.md) for Request and Response formats.
 
+# Features
+
+- Basic CRUD functionalities
+   - Create entries
+   - Read from Database
+   - Update entries
+   - Delete Entries
+- Authentication
+- Database integration
+- Data validation with Marshmallow
+
 # Libraries used
 
 *Python:*
