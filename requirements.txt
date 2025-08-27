@@ -1,0 +1,10 @@
+cryptography
+flask
+flask-sqlalchemy
+flask-login
+flask-marshmallow
+marshmallow-sqlalchemy
+marshmallow
+pymysql
+python-dotenv
+werkzeug
